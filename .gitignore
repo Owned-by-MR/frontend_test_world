@@ -39,4 +39,5 @@ yarn-error.log*
 next-env.d.ts
 
 .swc
-package-lock.json
+/package-lock.json
+.git
